@@ -1,0 +1,10 @@
+baseURL = 'https://darkdell.net/'
+languageCode = 'en-us'
+title = 'Nathan Douglas'
+theme = 'hugo-bearblog'
+
+[deployment]
+[[deployment.targets]]
+cloudFrontDistributionID = 'ERL3QRNQL3Q5K'
+name = 'blog'
+url = 's3://darkdell.www?region=us-east-1'
