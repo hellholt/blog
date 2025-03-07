@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://darkdell.net/</loc>
     <lastmod>2025-03-07T16:18:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://darkdell.net/posts/</loc>
     <lastmod>2025-03-07T16:18:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-03-07--the-war-on-the-middle-class/</loc>
+    <loc>https://darkdell.net/posts/2025-03-07--the-war-on-the-middle-class/</loc>
     <lastmod>2025-03-07T16:18:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://darkdell.net/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://darkdell.net/tags/</loc>
   </url>
 </urlset>
