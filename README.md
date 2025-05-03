@@ -1,2 +1,2 @@
-# Darkdell
-My [blog](https://darkdell.net/), written and maintained by Hugo.
+# Blog
+My [blog](https://blog.hellholt.net/), written and maintained by Hugo.
