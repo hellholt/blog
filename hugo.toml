@@ -2,7 +2,7 @@ baseURL = 'https://blog.hellholt.net/'
 languageCode = 'en-us'
 title = 'Nathan Douglas'
 theme = 'hugo-bearcub'
-copyright = '2025 Nathan Douglas'
+copyright = '2026- Nathan Douglas'
 
 [params]
 madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
