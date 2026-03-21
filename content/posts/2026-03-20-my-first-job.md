@@ -47,7 +47,9 @@ I told Rob that I wasn't prepared for it. I told everyone I wasn't prepared for 
 
 I don't know how I got that damned thing out the door. I did not at any point understand it well enough to work effectively on it. I never implemented all of the unit tests or integration tests that were needed, even if I'd known how to do that. At some point, it just seemed like it worked well enough. It stopped losing people's data. It didn't crash. It had a massive number of other problems, but those wouldn't all come up at once.
 
-Finally, in, I think, September or October of that year... or was it the next year? that it came out. Big fanfare. Big problems in the ticket system. Each day I'd come in and there would be complaints. I'd try to sort them out as best I could. Sometimes I could help. Sometimes I couldn't. Sometimes people were just furious, and I couldn't blame them. I don't think we ever lost data, but I sure ruined some people's days. (If you ran my Sync software back then, I apologize. You didn't deserve that.)
+Finally, in, I think, September or October of that year... or was it the next year? that it came out. Big fanfare at first.
+
+Then big problems in the ticket system. Each day I'd come in and there would be complaints. I'd try to sort them out as best I could. Sometimes I could help. Sometimes I couldn't. Sometimes people were just furious, and I couldn't blame them. I don't think we ever lost data, but I sure ruined some people's days. (If you ran my Sync software back then, I apologize. You didn't deserve that.)
 
 The only thing I could think of to do was to replace it with something. Right? Build a second system. Sync 2. Something that would solve all of the problems of the first system. Something that I could consider a victory.
 
