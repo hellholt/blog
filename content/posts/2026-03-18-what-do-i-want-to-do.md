@@ -1,6 +1,6 @@
 +++
 date = '2026-03-18T21:10:12-04:00'
-draft = true
+draft = false
 title = 'What Do I Want to Do?'
 +++
 I suppose as long as I'm thinking about what I want, I guess I should think about my career.
